@@ -64,6 +64,8 @@ jobs:
           # TODO: Install, build, deploy in both apps
           command: |
             echo "# TODO: Install, build, deploy in both apps"
+            chmod +x ./udagram/set_env.sh
+            ./udagram/set_env.sh
             npm run api:deploy
             npm run frontend:deploy
 workflows:
