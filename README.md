@@ -1,6 +1,9 @@
 # Hosting a Full-Stack Application
 
 ## Front-End Application URL
+http://udagram-front-end-776455455637.s3-website-us-east-1.amazonaws.com/
+
+## Back-End URL
 http://udagram-api-dev2.us-east-1.elasticbeanstalk.com/
 
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
