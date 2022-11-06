@@ -1,4 +1,4 @@
-cd udagram-api
+cd ./udagram/udagram-api
 eb use udagram-api-dev
 eb setenv POSTGRES_USERNAME={POSTGRES_USERNAME}
 eb setenv POSTGRES_HOST={POSTGRES_HOST}
